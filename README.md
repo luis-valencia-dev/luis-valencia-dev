@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Wayne
 
-<!--
-**luis-valencia-dev/luis-valencia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Stack** con enfoque en frontend **Vue 3 + Vite** y backend **Laravel**.
+Apasionado por el código limpio, las buenas prácticas y la creación de soluciones digitales útiles.
 
-Here are some ideas to get you started:
+## 🎯 Actualmente:
+- Perfeccionando integración de front y back en entornos Laravel + Vue.
+- Experimentando con **arquitecturas escalables** y **optimización de rendimiento**.
+- Contribuyendo al fortalecimiento de sistemas municipales y plataformas digitales internas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack principal
+
+Backend:   PHP · Laravel · Composer · REST APIs  
+Frontend:  Vue 3 · Vite · Composition API · Bootstrap · Axios · PrimeVue
